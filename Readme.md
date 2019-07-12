@@ -17,7 +17,8 @@
 - Run `python py.py`
   <br />
 - Hurrayyy!!! That's it!! Just wait now and your commits will br increasing, check on your github profile
+- After Running the script for some time (as per the no. of commits) {After a short While} Press `Cntrl+C` to stop the script. And finally run `git push origin master` to see the reflected changes in github.com/[your_username]/[your_repo_name]
 
-# "4320" Contribution in 24 hrs
+# "13000" Contribution in 24 hrs
 
 ## Automated Contributions
