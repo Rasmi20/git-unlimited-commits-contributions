@@ -1,6 +1,6 @@
 # Get unlimited contributions in your profile in just few mins
 
-# Paint your commit graph -![#f03c15](https://placehold.it/45/c5f015/000000?text=+) `green`
+# Paint your commit graph -![#f03c15](https://placehold.it/37/c5f015/000000?text=+) `green`
 
 **Want commits in your github?**
 <br />
