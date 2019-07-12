@@ -1,6 +1,6 @@
-# Get unlimited contributions in your profile in just few mins
+# Get unlimited contributions in your github profile in just few mins
 
-# Paint your commit graph -![#f03c15](https://placehold.it/37/c5f015/000000?text=+) `green`
+# Paint your commit graph - ![#f03c15](https://placehold.it/37/c5f015/000000?text=+) `green`
 
 **Want commits in your github?**
 <br />
@@ -17,3 +17,7 @@
 - Run `python py.py`
   <br />
 - Hurrayyy!!! That's it!! Just wait now and your commits will br increasing, check on your github profile
+
+# "4320" Contribution in 24 hrs
+
+## Automated Contributions
