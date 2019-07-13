@@ -23,5 +23,13 @@
     "fake contib",
     "fake",
     "automatic"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anant016/git-unlimited-commits-contributions"
+  },
+  "bugs": {
+    "url": "https://github.com/Anant016/git-unlimited-commits-contributions"
+  },
+  "homepage": "https://github.com/Anant016/git-unlimited-commits-contributions"
 }
